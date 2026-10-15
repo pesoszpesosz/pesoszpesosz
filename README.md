@@ -8,7 +8,7 @@ SeedanceCheap is an independent AI-video platform:
 
 One-time credit packs: 1 / $2.50, 2 / $5, 5 / $11.25, 10 / $20, or 20 / $30. The $30 pack can fund 40 × 15-second requests, 20 × 30-second requests, or a mix. Card or crypto; no subscription. These are request budgets, not guarantees of usable footage.
 
-Eligible new accounts can try one introductory generation without a card. One successful introductory video is shared across both models. Check current availability, supported sizes and the studio's recent wait estimate before submitting or buying.
+Planning tools are free. Generation has separate funding terms: check whether introductory trials are currently enabled, your account is eligible, and the selected model is accepting requests. Review current formats and the studio's recent wait estimate before submitting or buying. One successful introductory trial, when available, is shared across both models.
 
 ### Free planning tools and complete examples
 
@@ -22,6 +22,6 @@ Eligible new accounts can try one introductory generation without a card. One su
 
 Save a unique request ID and the exact payload before submission so a lost response can be reconciled without creating another job. Keep API keys on your server and out of public posts or repositories.
 
-Face/person image references and input video are unsupported. Creative results and generation times vary. Delivered MP4s are private and available for 48 hours after delivery; use the exact expiry timestamp in your studio. Reference images have a separate 24-hour expiry.
+Check live image-input availability in Studio before planning around a reference. Face/person image references and input video are unsupported. Creative results and generation times vary. Delivered MP4s are private and available for 48 hours after delivery; use the exact expiry timestamp in your studio. Reference images have a separate 24-hour expiry.
 
 *SeedanceCheap resources and community contributions are prepared by the team with Codex. Independent service, not the official model-provider site.*
