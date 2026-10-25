@@ -1,27 +1,36 @@
-## SeedanceCheap: 15s and 30s AI scenes, prompts and API
+## SeedanceCheap Studio 2: action, drama and your next idea
 
-**[SeedanceCheap.com — plan a scene and check live availability](https://seedancecheap.com/?utm_source=github&utm_medium=profile&utm_campaign=developer_discovery)**
+**[Open Studio 2 — check live models and workflows](https://seedancecheap.com/studio2/?utm_source=github&utm_medium=profile&utm_campaign=studio2_oct25#apps)**
 
-SeedanceCheap is an independent AI-video platform:
-- Seedance 2.0: a 15-second request uses 0.5 video credit.
-- Seedance 2.5: a 30-second request uses 1 video credit.
+An independent creative platform with Seedance 2.5 video, Motion Remix, and free planning and branding tools. Watch the complete examples before choosing your settings.
 
-One-time credit packs: 1 / $2.50, 2 / $5, 5 / $11.25, 10 / $20, or 20 / $30. The $30 pack can fund 40 × 15-second requests, 20 × 30-second requests, or a mix. Card or crypto; no subscription. These are request budgets, not guarantees of usable footage.
+### Pick the format. See the cost.
 
-Planning tools are free. Generation has separate funding terms: check whether introductory trials are currently enabled, your account is eligible, and the selected model is accepting requests. Review current formats and the studio's recent wait estimate before submitting or buying. One successful introductory trial, when available, is shared across both models.
+| Current Seedance 2.5 request | Video credits | Cash balance | Allocated from the $99 pack |
+| --- | ---: | ---: | ---: |
+| 30 seconds · 480p · text to video | 0.5 | $1.25 | 49.5¢ |
+| 15 seconds · 720p | 1 | $2.50 | 99¢ |
 
-### Free planning tools and complete examples
+The optional bulk pack costs **$99 upfront for 100 credits**. Allocated usage costs are not individual checkout prices. Start smaller with **1 credit for $2.50**. Other one-time packs: 2/$5, 5/$11.25, 10/$20 and 20/$30. No subscription.
 
-- [Character prompt builder](https://seedancecheap.com/characters?utm_source=github&utm_medium=profile&utm_campaign=developer_discovery): draft a text character sheet and scene. Planning is free; video generation is separate. Matching faces and choreography are not guaranteed.
-- [Video cookbook](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/): scene planning, continuity exercises and generation-budget tools.
-- [YouTube examples](https://www.youtube.com/@SeedanceCheap): complete historical outputs and the daily edited scene series. New generations can differ.
+[Find these exact formats in the generator](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#choose-format). Check the selected mode, full quote and live capacity before buying. Extra takes and other tools can cost more; a request is not a guarantee of usable footage. Prices checked October 25, 2026.
+
+### See the workflow, not just the thumbnail
+
+- **[Motion Remix: source → reference → result](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#remix)** — a complete 15-second action example, original inputs and the successful prompt. Review how the motion and appearance carried through.
+- **[30-second relationship drama](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#scene-drama)** — full native 480p output and actual prompt. These videos are internal model tests, not customer cases.
+- **[Brand Canvas: make two posters with one layout](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/brand-canvas.html?from=github)** — free shared text, PNG/ZIP export and saved-project reopening, demonstrated with actual exports. Generating source images or video is separate.
+
+<a href="https://pesoszpesosz.github.io/seedancecheap-video-cookbook/brand-canvas.html?from=github"><img src="https://pesoszpesosz.github.io/seedancecheap-video-cookbook/brand-canvas-courier-poster.png" width="220" alt="Actual Brand Canvas export: fictional AI courier in a blue jacket with red bag, mint headline Your image. Your signature., and free-export line."></a>
+
+[Free text character planner](https://seedancecheap.com/characters?utm_source=github&utm_medium=profile&utm_campaign=studio2_oct25) · [Budget the footage you keep](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/?from=github#usable-costs) · [More video examples](https://www.youtube.com/@SeedanceCheap)
+
+Reference-image and source-video support depend on the selected model and mode; review its actual input controls. New results, identity matching, choreography and generation times can vary. Save delivered files before the expiry shown in your library.
 
 ### Build with the API
 
-[API documentation](https://seedancecheap.com/api?utm_source=github&utm_medium=profile&utm_campaign=developer_discovery) · [Request builder](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/api-request.html) · [Cookbook source](https://github.com/pesoszpesosz/seedancecheap-video-cookbook)
+[API documentation](https://seedancecheap.com/api?utm_source=github&utm_medium=profile&utm_campaign=studio2_oct25) · [Request builder](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/api-request.html) · [Cookbook source](https://github.com/pesoszpesosz/seedancecheap-video-cookbook)
 
-Save a unique request ID and the exact payload before submission so a lost response can be reconciled without creating another job. Keep API keys on your server and out of public posts or repositories.
+Check the API's supported request schema separately from Studio 2's tool catalog. Save a unique request ID and the exact payload so a lost response can be reconciled without creating another job. Keep API keys on your server.
 
-Check live image-input availability in Studio before planning around a reference. Face/person image references and input video are unsupported. Creative results and generation times vary. Delivered MP4s are private and available for 48 hours after delivery; use the exact expiry timestamp in your studio. Reference images have a separate 24-hour expiry.
-
-*SeedanceCheap resources and community contributions are prepared by the team with Codex. Independent service, not the official model-provider site.*
+*Prepared by the SeedanceCheap team with Codex (AI). Independent service, not the official model-provider site.*
