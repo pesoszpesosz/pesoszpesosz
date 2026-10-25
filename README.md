@@ -15,7 +15,7 @@ The optional bulk pack costs **$99 upfront for 100 credits**. Allocated usage co
 
 [Find these exact formats in the generator](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#choose-format). Check the selected mode, full quote and live capacity before buying. Extra takes and other tools can cost more; a request is not a guarantee of usable footage. Prices checked October 25, 2026.
 
-### See the workflow, not just the thumbnail
+### Watch complete workflow examples
 
 - **[Motion Remix: source → reference → result](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#remix)** — a complete 15-second action example, original inputs and the successful prompt. Review how the motion and appearance carried through.
 - **[30-second relationship drama](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#scene-drama)** — full native 480p output and actual prompt. These videos are internal model tests, not customer cases.
