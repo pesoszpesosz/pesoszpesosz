@@ -1,27 +1,34 @@
-## SeedanceCheap Studio 2: action, drama and your next idea
+## SeedanceCheap Studio 2: full HD examples and free Brand Canvas
 
-**[Open Studio 2 — check live models and workflows](https://seedancecheap.com/studio2/?utm_source=github&utm_medium=profile&utm_campaign=studio2_oct25#apps)**
+**[Watch the complete HD example](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/native-1080p.html?from=github)** · **[Open free Brand Canvas](https://seedancecheap.com/studio2/?utm_source=github&utm_medium=profile&utm_campaign=studio2_oct25#brand-canvas)**
 
-An independent creative platform with Seedance 2.5 video, Motion Remix, and free planning and branding tools. Watch the complete examples before choosing your settings.
+An independent AI creative platform with multiple video models and free image-layout tools. Inspect the complete examples, then choose the workflow that fits your next idea.
 
-### Pick the format. See the cost.
+**Availability checked 27 October 2026, 18:56 UTC:** the live catalog marked the listed Seedance variants unavailable and exposed no Genjutsu video offer. Other HD entries remain available. Check the exact model and full quote before buying for a workflow.
 
-| Current Seedance 2.5 request | Video credits | Cash balance | Allocated from the $99 pack |
-| --- | ---: | ---: | ---: |
-| 30 seconds · 480p · text to video | 0.5 | $1.25 | 49.5¢ |
-| 15 seconds · 720p | 1 | $2.50 | 99¢ |
+### Watch a complete HD result
 
-The optional bulk pack costs **$99 upfront for 100 credits**. Allocated usage costs are not individual checkout prices. Start smaller with **1 credit for $2.50**. Other one-time packs: 2/$5, 5/$11.25, 10/$20 and 20/$30. No subscription.
+<a href="https://pesoszpesosz.github.io/seedancecheap-video-cookbook/native-1080p.html?from=github"><img src="https://pesoszpesosz.github.io/seedancecheap-video-cookbook/umbrella-1080p-share.jpg" width="640" alt="Actual frame from our earlier Veo 3.1 AI test: a fictional adult with a black umbrella on a wet street. The delivered 1080p file uses supplier upscaling."></a>
 
-[Find these exact formats in the generator](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#choose-format). Check the selected mode, full quote and live capacity before buying. Extra takes and other tools can cost more; a request is not a guarantee of usable footage. Prices checked October 25, 2026.
+The full **eight-second Veo 3.1 example** was delivered at **1080 × 1920 using supplier upscaling**. Native generation resolution is unverified. The guide includes the complete clip, original prompt, download and the requested umbrella-inversion ending it missed. This is an earlier internal model test with a fictional adult.
 
-### Watch complete workflow examples
+**[Watch the complete 720p action and Genjutsu source/result comparison](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#remix)** — original inputs, actual prompts and earlier pricing examples. The current availability notice appears before the demo and funding links.
 
-- **[Motion Remix: source → reference → result](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#remix)** — a complete 15-second action example, original inputs and the successful prompt. Review how the motion and appearance carried through.
-- **[30-second relationship drama](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#scene-drama)** — full native 480p output and actual prompt. These videos are internal model tests, not customer cases.
-- **[Brand Canvas: make two posters with one layout](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/brand-canvas.html?from=github)** — free shared text, PNG/ZIP export and saved-project reopening, demonstrated with actual exports. Generating source images or video is separate.
+### Brand your own images for free
+
+In **Brand Canvas**, arrange your logo and text once, then export the same layout across your images at their original sizes. **Editing, PNG/image export and ZIP batch export use no generation credits and work independently of AI providers.** Bring your own images; generating source images or video is a separate paid step.
+
+**[Open Brand Canvas](https://seedancecheap.com/studio2/?utm_source=github&utm_medium=profile&utm_campaign=studio2_oct25#brand-canvas)** · **[Follow the actual two-poster example](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/brand-canvas.html?from=github)**
+
+Save and reopen your project in the same signed-in account and browser, or download a project copy to keep it portable.
 
 <a href="https://pesoszpesosz.github.io/seedancecheap-video-cookbook/brand-canvas.html?from=github"><img src="https://pesoszpesosz.github.io/seedancecheap-video-cookbook/brand-canvas-courier-poster.png" width="220" alt="Actual Brand Canvas export: fictional AI courier in a blue jacket with red bag, mint headline Your image. Your signature., and free-export line."></a>
+
+### Choose the model and review its price
+
+**[Check currently listed video models and quotes](https://seedancecheap.com/studio2/?utm_source=github&utm_medium=profile&utm_campaign=studio2_oct25#generate)** · [Earlier format and pack examples](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/action.html?from=github#choose-format)
+
+Generation uses one-time credits, with no subscription. Review the selected model, inputs, dimensions, full quote and capacity before funding. Reference creation, extra takes and other workflow steps can cost more.
 
 [Free text character planner](https://seedancecheap.com/characters?utm_source=github&utm_medium=profile&utm_campaign=studio2_oct25) · [Budget the footage you keep](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/?from=github#usable-costs) · [More video examples](https://www.youtube.com/@SeedanceCheap)
 
