@@ -6,6 +6,16 @@ An independent AI creative platform with video workflows and free image-layout t
 
 **New budget video option: model identity under review.** Its Seedance 2.5 promotional price remains paused. These completed films used earlier options. Wait for the model review before buying credits specifically for that option. Latest model-review notice: November 4, 2026, 12:07 UTC.
 
+### Free editing tools
+
+Use these with footage you already have. They work without an account or generation credits.
+
+| Task | Tool |
+| --- | --- |
+| Check whether a grip or impact survives a 9:16 crop | [Rooftop crop checker](https://github.com/pesoszpesosz/seedancecheap-video-cookbook/releases/tag/rooftop-reframe-v1) |
+| Compare the pose and framing on either side of a cut | [Cut Match](https://oddspringgames.itch.io/cut-match-video-continuity) |
+| Move existing captions onto the parts you kept | [SRT Retimer](https://oddspringgames.itch.io/srt-retimer-for-video-cuts) |
+
 ### Wait for Green · 9.4-second action comedy, 720p
 
 Clear the car. Clear the railing. Wait for green.
@@ -16,7 +26,7 @@ Clear the car. Clear the railing. Wait for green.
 
 **Under $0.50 for this 720p export, with the $99 upfront pack of 100 credits.** The new 9.4-second Studio 2 Video Editor export used 0.5 credit: exactly $0.495 allocated from that pack. Earlier source generation, references, local caption/sound finishing and extra versions are separate. Export quote checked November 5, 2026 (Sofia); review your full live quote before starting. No subscription.
 
-The source is our earlier owned Plenx MANGO footage. This new cut uses its original audio, with captions and sound finished locally. Fictional AI adults and staged action; an internal team demonstration. No new source video was generated for this cut.
+The source is our earlier owned AI footage. This new cut uses its original audio, with captions and sound finished locally. Fictional AI adults and staged action; an internal team demonstration. No new source video was generated for this cut.
 
 **[Create account & open Editor](https://seedancecheap.com/app.html?mode=register&next=%2Fstudio2%2F%23editor&utm_source=github&utm_medium=profile&utm_campaign=wait_for_green_nov10&utm_content=register_editor)** · [Inspect both cuts and the complete source](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/green-means-go.html?from=github)
 
